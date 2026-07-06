@@ -77,7 +77,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 ### 1. Configuración de la Base de Datos (XAMPP)
 
 1. Abre el panel de control de **XAMPP** y arranca los módulos **Apache** y **MySQL**.
-2. Dirígete a tu navegador web e ingresa a `http://localhost/phpmyadmin`.
+2. Dirígete a tu navegador web e ingresa a `http://localhost:8080/phpmyadmin`.
 3. Crea una nueva base de datos llamada `db_emprendecontrol`.
 4. Importa el archivo SQL que se encuentra en `/database/db_emprendecontrol.sql` (creado en la fase de desarrollo).
 
